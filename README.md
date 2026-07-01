@@ -1,7 +1,5 @@
 ## 🎓 Education
-* **Ph.D.**, Pusan National University (2026)
-* **M.S.**, Pusan National University (2014)
-* **B.S.**, Pusan National University (2011)
+Ph.D. (2026) / M.S. (2014) / B.S. (2011), Pusan National University
 
 ## 💼 Experience
 * **General Manager**, KM DigiTech Co., Ltd. (2025 - Present)
