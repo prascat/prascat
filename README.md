@@ -1,5 +1,7 @@
 ## 🎓 Education
-* **Ph.D.** (2026) / **M.S.** (2014) / **B.S.** (2011), Pusan National University
+* 🎓 **Ph.D. in Engineering** (2026) – Pusan National University
+* 🧪 **M.S. in Engineering** (2014) – Pusan National University
+* 💻 **B.S. in Engineering** (2011) – Pusan National University
 
 ## 💼 Experience
 * **Founder & CEO**, SYTIX. (2026 - Present)
